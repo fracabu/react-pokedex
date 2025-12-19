@@ -1,49 +1,60 @@
-# React Pokedex
+<h1 align="center">React Pokedex</h1>
+<h3 align="center">A modern React web application functioning as a digital Pokedex, allowing users </h3>
 
-A modern web application built with React, designed to function as a digital Pokedex. This project allows users to browse and view information about various Pokémon, leveraging a public API to fetch and display the data dynamically.
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript" />
+</p>
 
-## Key Features
+<p align="center">
+  :gb: <a href="#english">English</a> | :it: <a href="#italiano">Italiano</a>
+</p>
 
-*   Comprehensive display of Pokémon data.
-*   Dynamic fetching of Pokémon information from an external API.
-*   Intuitive user interface powered by React.
-*   Responsive design for various screen sizes (implied by typical React apps).
+---
+
+<a name="english"></a>
+## :gb: English
+
+### Overview
+
+A modern React web application functioning as a digital Pokedex, allowing users to browse and view dynamically fetched Pokémon data from an external API.
+
+### Quick Start
+
+```bash
+git clone https://github.com/fracabu/react-pokedex.git
+cd react-pokedex
+```
+
+---
+
+<a name="italiano"></a>
+## :it: Italiano
+
+### Panoramica
+
+A modern React web application functioning as a digital Pokedex, allowing users to browse and view dynamically fetched Pokémon data from an external API.
+
+### Avvio Rapido
+
+```bash
+git clone https://github.com/fracabu/react-pokedex.git
+cd react-pokedex
+```
+
+---
 
 ## Tech Stack
 
-*   **Frontend**: React, JavaScript
-*   **Styling**: CSS
-*   **API Client**: Axios
+JavaScript
 
-## Getting Started
+## License
 
-Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
+MIT
 
-### Prerequisites
+---
 
-You need to have Node.js and npm (Node Package Manager) installed on your system.
-
-### Installation
-
-1.  **Clone the repository:**
-
-    ```bash
-    git clone https://github.com/your-username/react-pokedex.git
-    cd react-pokedex
-    ```
-
-2.  **Install dependencies:**
-
-    ```bash
-    npm install
-    ```
-
-### Running the Application
-
-To run the application in development mode:
-
-```bash
-npm start
-```
-
-This will open the application in your browser at `http://localhost:3000`. The page will reload if you make edits. You will also see any lint errors in the console.
+<p align="center">
+  <a href="https://github.com/fracabu">
+    <img src="https://img.shields.io/badge/Made_by-fracabu-8B5CF6?style=flat-square" alt="Made by fracabu" />
+  </a>
+</p>
